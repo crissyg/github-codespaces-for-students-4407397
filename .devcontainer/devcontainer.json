@@ -12,5 +12,14 @@
             "label": "React App",
             "onAutoForward": "openPreview"
         }
+    },
+
+    "customizations": {
+        "vscode": {
+            "extensions": ["esbenp.prettier-vscode"],
+            "settings": {
+                "editor.formatOnSave": true
+            }
+        }
     }
 }
