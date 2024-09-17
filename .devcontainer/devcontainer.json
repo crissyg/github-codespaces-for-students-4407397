@@ -16,11 +16,8 @@
 
     "customizations": {
         "vscode": {
-            "extensions": ["esbenp.prettier-vscode"],
-            "settings": {
-                "editor.defaultFormatter": "esbenp.prettier-vscode",
-                "editor.formatOnSave": true
-            }
+            "extensions": ["esbenp.prettier-vscode"]
+           
         }
     }
 }
